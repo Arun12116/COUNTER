@@ -1,0 +1,35 @@
+body{
+    background-color: wheat;
+}
+.container{
+    margin-top:11rem;
+    margin-left: 35rem;
+    width: 20rem;
+    height: 20rem;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+#zero{
+    margin-left:7rem;
+    font-size:50px;
+    color: green;
+}
+#LOWERCOUNT{
+    background-color: rgb(25, 25, 59);
+    margin-left: 6rem;
+    border-radius:10px;
+    color: white;
+}
+
+#ADDCOUNT{
+    margin-left:6rem;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(25, 25, 59);
+
+}
+#counter{
+    margin-left:6rem;
+}
